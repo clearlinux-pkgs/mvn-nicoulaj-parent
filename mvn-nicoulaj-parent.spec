@@ -4,7 +4,7 @@
 #
 Name     : mvn-nicoulaj-parent
 Version  : 32
-Release  : 1
+Release  : 2
 URL      : https://github.com/nicoulaj/parent-pom/archive/32.tar.gz
 Source0  : https://github.com/nicoulaj/parent-pom/archive/32.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/net/ju-n/net-ju-n-parent/32/net-ju-n-parent-32.pom
